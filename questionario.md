@@ -2,14 +2,17 @@
 
 ### Questionário:
 
-1. Como funciona o processo do sistema de pontos ? Quais são os passos ?
-2. Quais os problemas que você objetiva resolver com este sistema ? O que você quer ?
-3. Quais as funcionalidades atuais do sistema utilizado ? Pontos fortes e fracos ?
-4. Qual o melhor cenário do funcionamento do sistema ?
-5. Qual o pior cenário do funcionamento do sistema ?
-6. De maneira geral, quais as necessidades para o sistema funcionar ?
-7. Existe alguma restrição para o uso do sistema ?
-8. É necessário que seja um sistema acessível ?
-9. Quais são os principais interessados neste sistema ?
-10. Quem são os usuários finais do sistema ?
-11. Quais são os meios que você prefere para estabelecer nossa comunicação ?
+- Quais são os seus principais objetivos com esse projeto ? 
+- Quais os problemas que você objetiva resolver com o desenvolvimento deste projeto ? O que você almeja alcançar ?
+- Quem serão os beneficiados com este projeto ? Que vantagens ele trará ?
+- Caso exista um sistema, como funciona os processos que são realizados por este sistema ? Quais são os passos ?
+- Caso exista um sistema, quais as funcionalidades principais do sistema utilizado ? O que de fato ele realiza/controla ? 
+- Caso exista um sistema, quais as necessidades para o sistema funcionar, quais são as suas depedências ?
+- Caso exista um sistema, existe alguma restrição para o uso do sistema ? Por exemplo, o sistema precisa de autenticação ? 
+- Caso exista um sistema, no que diz respeito a implementação, como você deseja que ele funcione ? Por exemplo, o sistema precisa ser web ?
+- Caso exista um sistema, é necessário que seja um sistema acessível ?
+- Quais são os principais interessados neste projeto ?
+- Caso exista um sistema, quem irá utilizá-lo ?
+- Existe algum risco que impeça o desenvolvimento deste projeto ?
+- O desenvolvimento deste projeto vai exigir disposição de recursos financeiros ?
+- Quais são os meios que você prefere para estabelecer nossa comunicação ?
